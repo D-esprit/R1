@@ -1,3 +1,7 @@
 NOV FAIL
 
+<<<<<<< HEAD
 Update with Bash...
+=======
+Update with Tortoise...
+>>>>>>> c2b77c6260fc694a646e3cc442a8ff371a062726
